@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.paidy.questions.OrdinalNumbersFormatterTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-07-11T06:18:56" hostname="TPE-FY0L063" time="0.099">
+  <properties/>
+  <testcase name="[1] 0, 0th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.052"/>
+  <testcase name="[2] 00, 0th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.002"/>
+  <testcase name="[3] 01, 1st" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[4] 002, 2nd" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[5] 3, 3rd" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[6] 10, 10th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[7] 0011, 11th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[8] 12, 12th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[9] 13, 13th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[10] 14, 14th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[11] 20, 20th" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[12] 21, 21st" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[13] 22, 22nd" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.0"/>
+  <testcase name="[14] 23, 23rd" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[15] 101, 101st" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.0"/>
+  <testcase name="[16] 102, 102nd" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[1] -1, class com.paidy.questions.exception.QuestionException" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.004"/>
+  <testcase name="[2] null, class java.lang.NullPointerException" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <testcase name="[3] abc01, class com.paidy.questions.exception.QuestionException" classname="com.paidy.questions.OrdinalNumbersFormatterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

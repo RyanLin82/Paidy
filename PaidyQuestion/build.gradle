@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+    id "io.freefair.lombok" version "6.5.0.2"
+}
+
+group 'com.paidy'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+    implementation 'commons-validator:commons-validator:1.7'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-params:5.8.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
+}
+
+test {
+    useJUnitPlatform()
+}
