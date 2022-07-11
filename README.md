@@ -1,4 +1,5 @@
 # Paidy questions
+**This is the Intellij, gradle, java project**
 
 There are four questions that will be solved in this repository. It's simple but contains test solutions.  
 Most functions can also have some flexibilities in the setting. However, It doesn't use Spring framework.  
